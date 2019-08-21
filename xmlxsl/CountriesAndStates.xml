@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+	<country name="INDIA">
+		<state>Andhra Pradesh</state>
+		<state>Arunachal Pradesh</state>
+		<state>Assam</state>
+		<state>Bihar</state>
+		<state>Chandigarh</state>
+		<state>Chhattisgarh</state>
+		<state>Dadra and Nagar Haveli</state>
+		<state>Daman and Diu</state>
+		<state>Delhi</state>
+		<state>Chhattisgarh</state>
+	</country>
+	<country name="MAXICO">
+		<state>Aguascalientes</state>
+		<state>Baja California</state>
+		<state>Baja California Sur</state>
+		<state>Campeche</state>
+		<state>Chiapas</state>
+	</country>
+	<country name="USA">
+		<state>Alabama</state>
+		<state>Alaska</state>
+		<state>Arizona</state>
+		<state>Arkansas</state>
+		<state>California</state>
+		<state>Colorado</state>
+		<state>Connecticut</state>
+		<state>Delaware</state>
+		<state>Florida</state>
+	</country>
+</countries>
